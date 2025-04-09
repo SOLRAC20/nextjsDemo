@@ -14,7 +14,7 @@ export default function herosection() {
         </div>
 
         <div className='flex justify-center items-center'>
-            <img src="img1.png" alt="" />
+            <img src="img1.png" alt="" /> 
         </div>
     </div>
   )
