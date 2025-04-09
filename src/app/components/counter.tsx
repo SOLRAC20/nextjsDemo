@@ -1,6 +1,5 @@
 
 "use client"
-import React, { use } from 'react'
 import { useState } from 'react'
 
 export default function Counter() {
