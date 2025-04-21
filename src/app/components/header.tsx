@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { Button } from "@/components/ui/button"
 export default function header() {
   return (
-    <div className='flex justify-between items-center p-8 pl-30 pr-30'>
+    <div className='flex justify-between items-center p-8 pl-30 pr-30 mb-30'>
         <div className="logo">
             <h1 className='text-2xl font-bold '>My Logo</h1>
         </div>

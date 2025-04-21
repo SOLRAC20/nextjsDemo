@@ -4,12 +4,14 @@
 //import { Button } from "@/components/ui/button"
 import Header from "./components/header";
 import Herosection from "./components/herosection";
+import SecondSection from "./components/secondSection";
 export default function Home() {
   return (
     
     <div>
       <Header></Header>
       <Herosection></Herosection>
+      <SecondSection></SecondSection>
     </div>
   );
 }
